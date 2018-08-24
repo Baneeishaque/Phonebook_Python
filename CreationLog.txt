@@ -1,0 +1,2 @@
+
+Created on 2018-08-07 in 'C:\Users\Srf\PycharmProjects\Phonebook/Data/file.db' ,Used Query : CREATE TABLE Phone(ID ,name ,surname ,telephone )
